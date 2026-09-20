@@ -56,6 +56,10 @@ is_base32() {
   fi
 }
 
+is_base64(){
+
+}
+
 #read -p "Enter an hash or encoded text: " value
 
 #trimmed_string=$(echo "$value" | xargs)
